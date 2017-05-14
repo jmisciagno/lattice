@@ -1,4 +1,6 @@
 # lattice
 
-Testing
-![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/pic1.jpg "Logo Title Text 1")
+# Screen shots
+![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/pic1.jpg "")
+![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/pic2.jpg "")
+![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/pic3.jpg "")
