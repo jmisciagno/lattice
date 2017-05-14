@@ -1,5 +1,6 @@
 # lattice
 
+## Organization
 ![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/flowchart.jpg "")  
 
 ## Screenshots
