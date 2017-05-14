@@ -6,9 +6,7 @@ Lattice is a programmable video mixer capable of performing real-time processing
 ## Design
 ![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/flowchart.jpg "")  
   
-  
-  
-  
+<div class="pagebreak"></div>
   
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/jmisciagno/lattice/master/screenshot1.jpg "")  
